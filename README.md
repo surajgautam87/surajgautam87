@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Darunde</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A data enthusiast with a passion for transforming raw data into actionable insights. Recently completed a Data Analyst certification, I'm honing my skills in SQL (RDBMS), Python, Power BI, Tableau, and advanced Excel to dive deeper into the world of data analysis.</h3>
 
 <img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif">
 
